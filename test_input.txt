@@ -1,0 +1,15 @@
+Graph: AB5, BC4, CD8, DC8, DE6, AD5, CE2, EB3, AE7
+Distance:A-B-C
+Distance:A-D
+Distance:A-D-C
+Distance:A-E-B-C-D
+Distance:A-E-D
+RoutesNumber: C-C : MaxStops-3
+RoutesNumber: A-C : ExactlyStops-4
+RoutesNumber: C-C : MaxStops-3,ExactlyStops-3
+RoutesNumber: A-C : ExactlyDuration-30
+ShortestDistance:A-C
+ShortestDistance:B-B
+RoutesNumber: C-C : DistanceLess-30
+Duration:A-B-C
+Duration:A-E-B-C-D
